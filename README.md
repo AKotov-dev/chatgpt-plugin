@@ -3,7 +3,7 @@
 
 ![](https://github.com/AKotov-dev/chatgpt-plugin/blob/main/chatgpt-plugin/ico/chatgpt_plugin-64.png)  ![](https://github.com/AKotov-dev/chatgpt-plugin/blob/main/chatgpt-plugin/ico/chatgpt_plugin-russia-64.png)
 
-`ChatGPT (Официальный)` - это вход в официальный чат с нейросетью (OpenAI), который доступен из России через `VPN`. `ChatGPT (Россия)` VPN не требует и поддерживает 4 языка общения: `Ru, En, Kz и Uzb` (переключатель находится внизу страницы). После установки плагина ярлыки чатов находятся в системном `Меню - Интернет`.
+[ChatGPT (Официальный)](https://chatgpt.com/) - это вход в официальный чат с нейросетью `OpenAI`, который доступен из России через `VPN`. [ChatGPT (Россия)](https://gpt-open.ru/) VPN не требует и поддерживает 4 языка общения: `Ru, En, Kz и Uzb` (переключатель находится внизу страницы). После установки плагина ярлыки чатов находятся в системном `Меню - Интернет`.
 
 Что такое ChatGPT?
 --
