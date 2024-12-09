@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=ChatGPT (Russia)
+Name[ru]=ChatGPT (Россия)
+Comment=Chat with neural network
+Comment[ru]=Чат с нейросетью
+Icon=chatgpt-plugin-russia
+Exec=/usr/share/chatgpt-plugin/chatgpt_plugin russia
+Type=Application
+Categories=Network;WebBrowser;
+Terminal=false

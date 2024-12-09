@@ -1,0 +1,72 @@
+[NAME]
+name=chatgpt-plugin
+
+[VERSION]
+version=0.1
+
+[RELEASE]
+release=0.mrx9
+
+[GROUP]
+group=Accessibility
+
+[DESCRIPTION]
+0=chatgpt-plugin - chat with neural network
+1=---
+2=More information: /usr/share/doc/package_name/repack.txt
+
+[MAINTAINER]
+maintainer=Alex Kotov
+
+[VENDOR]
+vendor=alex_q_2000 (C) 2024
+
+[SUMMARY]
+summary=chatgpt-plugin - chat with neural network
+
+[URLCOPY]
+urlcopy=https://github.com/AKotov-dev/chatgpt-plugin
+
+[LICENSE]
+license=GPLv3
+
+[DEPS]
+deps=
+
+[META]
+meta=0
+
+[NOARCH]
+noarch=0
+
+[DEB]
+deb=1
+
+[FILES]
+0=/usr/share/chatgpt-plugin/
+1=/usr/share/doc/chatgpt-plugin/
+2=/usr/share/icons/chatgpt-plugin.png
+3=/usr/share/applications/chatgpt-plugin.desktop
+4=/usr/share/icons/chatgpt-plugin-russia.png
+5=/usr/share/applications/chatgpt-plugin-russia.desktop
+
+[URL32]
+url32=https://github.com/AKotov-dev/chatgpt-plugin
+
+[PROGRAMNAME]
+programname=chatgpt-plugin
+
+[DEVTOOL]
+devtool=Lazarus
+
+[TOOLVERSION]
+toolversion=3.2
+
+[INFO]
+0=сhatgpt-plugin is an add-on for MgaRemix-Proserpina/Mageia/Ubuntu. It consists of two stylized buttons for placing them in the system panel or on the OS desktop and contains two options for logging in via a browser: ChatGPT (Official) and ChatGPT (Russia).
+1=
+2=ChatGPT (Official) is an entrance to the official chat with a neural network (OpenAI), which is accessible from Russia via VPN. ChatGPT (Russia) does not require VPN and supports 4 communication languages: Ru, En, Kz and Uzb (the switch is at the bottom of the page). Based on basic security principles, it is preferable to use ChatGPT (Official), however, ultimately the user makes this decision himself.
+3=
+4=v0.1
+5=+ Initial release
+6=+ RPM and DEB packages
