@@ -12,7 +12,7 @@ URL the sources + binaries of the author: https://github.com/AKotov-dev/chatgpt-
 Information about the rpm-package:
 ---
 Build method: Portable RPM
-Time stamp: 10-12-24 10:21:15
+Time stamp: 10-12-24 10:54:48
 
 Name: chatgpt-plugin
 Version: 0.2
@@ -33,7 +33,7 @@ More information: /usr/share/doc/package_name/repack.txt
 
 Package dependencies:
 ---
-xdg-utils
+xdg-utils hicolor-icon-theme
 
 Additionally information:
 ---
@@ -42,7 +42,7 @@ Additionally information:
 ChatGPT (Official) is an entrance to the official chat with a neural network (OpenAI), which is accessible from Russia via VPN. ChatGPT (Russia) does not require VPN and supports 4 communication languages: Ru, En, Kz and Uzb (the switch is at the bottom of the page). Based on basic security principles, it is preferable to use ChatGPT (Official), however, ultimately the user makes this decision himself.
 
 v0.2
-+ used xdg-utils
++ Used xdg-utils
 + RPM and DEB noarch packages
 
 v0.1
