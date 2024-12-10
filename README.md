@@ -1,4 +1,6 @@
 # chatgpt-plugin
+**Dependencies:** xdg-utils hicolor-icon-theme
+
 Это дополнение для MgaRemix-Proserpina/Mageia/Ubuntu. Оно представляет из себя две стилизованных кнопки для размещения их в системной панели или на рабочем столе ОС и содержит два варианта входа через браузер: [ChatGPT (Официальный)](https://chatgpt.com/) и [ChatGPT (Россия)](https://gpt-open.ru/):
 
 ![](https://github.com/AKotov-dev/chatgpt-plugin/blob/main/usr/share/icons/hicolor/64x64/apps/chatgpt-plugin.png)  ![](https://github.com/AKotov-dev/chatgpt-plugin/blob/main/usr/share/icons/hicolor/64x64/apps/chatgpt-plugin-russia.png)
