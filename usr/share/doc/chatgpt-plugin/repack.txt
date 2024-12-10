@@ -4,18 +4,18 @@ It contains the necessary information to recreation the program from the source 
 Information about the program:
 ---
 Name of program: chatgpt-plugin
-Version of program: 0.1
-Program development tool: Lazarus
-Version of program development tool: 3.2
+Version of program: 0.2
+Program development tool: Shell
+Version of program development tool: unknown
 URL the sources + binaries of the author: https://github.com/AKotov-dev/chatgpt-plugin
 
 Information about the rpm-package:
 ---
 Build method: Portable RPM
-Time stamp: 9-12-24 12:19:54
+Time stamp: 10-12-24 10:21:15
 
 Name: chatgpt-plugin
-Version: 0.1
+Version: 0.2
 Release: 0.mrx9
 Group: Accessibility
 License: GPLv3
@@ -31,11 +31,19 @@ chatgpt-plugin - chat with neural network
 ---
 More information: /usr/share/doc/package_name/repack.txt
 
+Package dependencies:
+---
+xdg-utils
+
 Additionally information:
 ---
 сhatgpt-plugin is an add-on for MgaRemix-Proserpina/Mageia/Ubuntu. It consists of two stylized buttons for placing them in the system panel or on the OS desktop and contains two options for logging in via a browser: ChatGPT (Official) and ChatGPT (Russia).
 
 ChatGPT (Official) is an entrance to the official chat with a neural network (OpenAI), which is accessible from Russia via VPN. ChatGPT (Russia) does not require VPN and supports 4 communication languages: Ru, En, Kz and Uzb (the switch is at the bottom of the page). Based on basic security principles, it is preferable to use ChatGPT (Official), however, ultimately the user makes this decision himself.
+
+v0.2
++ used xdg-utils
++ RPM and DEB noarch packages
 
 v0.1
 + Initial release

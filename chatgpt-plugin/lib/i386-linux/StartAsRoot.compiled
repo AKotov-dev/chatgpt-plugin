@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="/usr/bin/fpc" Date="1621175016"/>
-  <Params Value=" -MObjFPC -Scghi -CX -O3 -XX -l -vewnhibq -Fi/home/marsik/Desktop/StartAsRoot/lib/i386-linux -Fu/home/marsik/Desktop/StartAsRoot/ -FU/home/marsik/Desktop/StartAsRoot/lib/i386-linux/ -FE/home/marsik/Desktop/StartAsRoot/ -o/home/marsik/Desktop/StartAsRoot/StartAsRoot StartAsRoot.pas"/>
-</CONFIG>
