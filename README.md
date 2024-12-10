@@ -1,7 +1,7 @@
 # chatgpt-plugin
 Это дополнение для MgaRemix-Proserpina/Mageia/Ubuntu. Оно представляет из себя две стилизованных кнопки для размещения их в системной панели или на рабочем столе ОС и содержит два варианта входа через браузер: [ChatGPT (Официальный)](https://chatgpt.com/) и [ChatGPT (Россия)](https://gpt-open.ru/):
 
-![](https://github.com/AKotov-dev/chatgpt-plugin/blob/main/chatgpt-plugin/ico/chatgpt_plugin-64.png)  ![](https://github.com/AKotov-dev/chatgpt-plugin/blob/main/chatgpt-plugin/ico/chatgpt_plugin-russia-64.png)
+![](https://github.com/AKotov-dev/chatgpt-plugin/blob/main/usr/share/icons/hicolor/64x64/apps/chatgpt-plugin.png)  ![](https://github.com/AKotov-dev/chatgpt-plugin/blob/main/usr/share/icons/hicolor/64x64/apps/chatgpt-plugin-russia.png)
 
 `ChatGPT (Официальный)` - это вход в официальный чат с нейросетью `OpenAI`, который доступен из России через `VPN`. `ChatGPT (Россия)` VPN не требует и поддерживает 4 языка общения: `Ru, En, Kz и Uzb` (переключатель находится внизу страницы). После установки плагина ярлыки чатов находятся в системном `Меню - Интернет`.
 
