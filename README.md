@@ -1,9 +1,9 @@
 # chatgpt-plugin
-Это дополнение для MgaRemix-Proserpina/Mageia/Ubuntu. Оно представляет из себя две стилизованных кнопки для размещения их в системной панели или на рабочем столе ОС и содержит два варианта входа через браузер: [ChatGPT (Официальный)](https://chatgpt.com/) и [ChatGPT (Россия)](https://gpt-open.ru/):
+Это дополнение для MgaRemix-Proserpina/Mageia/Ubuntu. Оно представляет из себя стилизованную кнопку для размещения в системной панели или на рабочем столе ОС и содержит ссылку входа через браузер: [ChatGPT (Официальный)](https://chatgpt.com/)
 
-![](https://github.com/AKotov-dev/chatgpt-plugin/blob/main/usr/share/icons/hicolor/64x64/apps/chatgpt-plugin.png)  ![](https://github.com/AKotov-dev/chatgpt-plugin/blob/main/usr/share/icons/hicolor/64x64/apps/chatgpt-plugin-russia.png)
+![](https://github.com/AKotov-dev/chatgpt-plugin/blob/main/usr/share/icons/hicolor/64x64/apps/chatgpt-plugin.png)
 
-`ChatGPT (Официальный)` - это вход в официальный чат с нейросетью `OpenAI`, который доступен из России через `VPN`. `ChatGPT (Россия)` VPN не требует и поддерживает 4 языка общения: `Ru, En, Kz и Uzb` (переключатель находится внизу страницы). После установки плагина ярлыки чатов находятся в системном `Меню - Интернет`.
+`ChatGPT (Официальный)` - это вход в официальный чат с нейросетью `OpenAI`, который доступен из России через `VPN`. После установки плагина ярлык чата находится в системном `Меню - Интернет`.
 
 Что такое ChatGPT?
 --
